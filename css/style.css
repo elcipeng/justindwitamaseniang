@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  margin:0;
+  font-family:Arial;
+}
+
+nav{
+  position:fixed;
+  top:0;
+  width:100%;
+  background:black;
+  padding:15px;
+}
+
+nav a{
+  color:white;
+  margin:20px;
+  text-decoration:none;
+}
+
+section{
+  height:100vh;
+  padding:80px 40px;
+}
